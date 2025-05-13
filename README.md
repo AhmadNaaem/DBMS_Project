@@ -14,4 +14,4 @@ A simple GUI-based Bank Management System built in Python using MySQL. Made as a
 2. Install the MySQL connector: pip install mysql-connector-python
 3. Run the main Python file.
    
-> Developed for the DBMS course (CSC-204) by group 23SP-006-CS, 23SP-008-CS, and 23SP-036-CS.
+> Developed for the DBMS course (CSC-204) by 23SP-006-CS.
